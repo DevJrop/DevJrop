@@ -1,88 +1,54 @@
-<!--
-🎮 Maestro's Guild Scroll (GitHub Profile README)
-Replace placeholders: YOUR_USERNAME, links, email, projects.
--->
-
 <div align="center">
 
-  <!-- Avatar / Logo (optional) -->
-  <!-- You can replace the image URL with your own -->
-  <img src="https://i.imgur.com/yourImage.png" width="140" style="border-radius: 50%;" alt="profile"/>
+<!-- Avatar (optional) -->
+<img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="140" style="border-radius:50%;" alt="avatar"/>
 
-  # Hi, I'm Juan José Rodríguez Pineda 👋⚔️  
-  **(aka “Maestro”)** — Unity Game Developer / Software Developer
+# Juan José Rodríguez Pineda (Maestro) 🧙‍♂️🎮
 
-  🌍 Based in Spain • 🇨🇴 From Colombia  
-  🧠 Building games, systems, and clean gameplay code (C#)
+**Unity Developer • C#**  
+Software Engineering student • Learning **Shaders/VFX** ✨  
+English: **B1+** 🇬🇧
 
-  <br/>
+<br/>
 
-  <!-- Social buttons (replace links) -->
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://YOUR_ITCH_LINK">
-    <img src="https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-  <a href="https://YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://YOUR_INSTAGRAM_LINK">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<!-- Friendly badges -->
+<img src="https://img.shields.io/badge/C%23-Developer-111?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-Game%20Dev-111?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Shaders-Learning-111?style=for-the-badge&logo=shader&logoColor=white" />
+<img src="https://img.shields.io/badge/English-B1%2B-111?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+<br/><br/>
+
+<!-- Links -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_ITCH_LINK">
+  <img src="https://img.shields.io/badge/itch.io-My%20Games-2ea44f?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Cute friendly image -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat typing"/>
 
 </div>
 
 ---
 
-## 🧙‍♂️ About Me (Lore)
-I’m a developer focused on **Unity (C#)** and gameplay systems: UI, quests, inventory, interactions, and polished player experience.  
-Currently leveling up in **Data/BI** (Power BI + Data Science foundations) to bring analytics into product decisions.
+### 🌱 Now
+- Building games with **Unity + C#**
+- Studying **Software Engineering**
+- Grinding **Shaders/VFX** (step by step)
 
----
-
-## 🗺️ Current Campaign (What I’m building)
-- 🎮 **Unity Projects:** gameplay systems, UI scaling, quest systems, inventory, progression
-- 🧠 **Learning Track:** shaders/VFX, clean architecture, performance patterns
-- 📊 **BI Track:** Power BI dashboards + data fundamentals (bootcamp)
-
----
-
-## 🧰 Skills & Tools (Inventory)
-**Game Dev**
-- Unity (2D/3D), C#, ScriptableObjects, UI (TextMeshPro), Events, Coroutines
-
-**Data / BI**
-- Power BI, data fundamentals (in progress), reporting mindset
-
-**Workflow**
-- Git/GitHub, Rider / Visual Studio, clean commits & project structure
-
----
-
-## 🧪 Featured Repositories (Your best loot)
-> Pin your best 3–6 repos on GitHub for a strong portfolio.
-
-- **Project 1:** Unity Game System (Quests / Inventory / UI)  
-  👉 https://github.com/YOUR_USERNAME/YOUR_REPO_1
-
-- **Project 2:** Boss Fight / AI / Combat  
-  👉 https://github.com/YOUR_USERNAME/YOUR_REPO_2
-
-- **Project 3:** BI / Power BI Dashboards  
-  👉 https://github.com/YOUR_USERNAME/YOUR_REPO_3
-
----
-
-## 📬 Contact (Summon Me)
-- Email: **YOUR_EMAIL@example.com**
-- itch.io: **YOUR_ITCH_LINK**
+### 🧩 Pinned projects
+> 📌 Pin your best repos here on GitHub for an instant portfolio.
 
 ---
 
 <div align="center">
-
-### ⚔️ “Build. Test. Refactor. Repeat.”  
-<sub>— Maestro’s Developer Oath</sub>
-
+  <sub>✨ Minimal. Clean. Ship games. ✨</sub>
 </div>
