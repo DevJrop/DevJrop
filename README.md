@@ -3,7 +3,7 @@
 <!-- Avatar (optional) -->
 <img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="140" style="border-radius:50%;" alt="avatar"/>
 
-# Juan José Rodríguez Pineda (Maestro) 🧙‍♂️🎮
+# Juan José Rodríguez Pineda 🧙‍♂️🎮
 
 **Unity Developer • C#**  
 Software Engineering student • Learning **Shaders/VFX** ✨  
@@ -26,9 +26,6 @@ English: **B1+** 🇬🇧
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR_ITCH_LINK">
-  <img src="https://img.shields.io/badge/itch.io-My%20Games-2ea44f?style=for-the-badge&logo=itchdotio&logoColor=white" />
-</a>
 
 <br/><br/>
 
@@ -43,11 +40,6 @@ English: **B1+** 🇬🇧
 - Building games with **Unity + C#**
 - Studying **Software Engineering**
 - Grinding **Shaders/VFX** (step by step)
-
-### 🧩 Pinned projects
-> 📌 Pin your best repos here on GitHub for an instant portfolio.
-
----
 
 <div align="center">
   <sub>✨ Minimal. Clean. Ship games. ✨</sub>
