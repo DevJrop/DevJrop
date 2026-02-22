@@ -21,10 +21,10 @@ English: **B1+** 🇬🇧
 
 <!-- Links -->
 <a href="https://github.com/DevJrop">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-DevJrop-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:JuanJrop002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-JuanJrop002@gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
