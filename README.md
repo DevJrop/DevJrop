@@ -20,10 +20,10 @@ English: **B1+** 🇬🇧
 <br/><br/>
 
 <!-- Links -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/DevJrop">
   <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:JuanJrop002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
